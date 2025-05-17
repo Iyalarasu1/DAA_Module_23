@@ -15,8 +15,8 @@ To write a python program to find the maximum contiguous subarray.
 
 ## Program:
 ```
-Developed by: ESHWAR T
-Register Number:  212223230054
+Developed by: Iyalarasu C
+Register Number:212223040069
 def maxSubArraySum(a,size):
     #####################  Add your Code here #############
     max_till_now = a[0]
